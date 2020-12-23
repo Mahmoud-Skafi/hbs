@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box; }
+
+.d-jcc {
+  display: flex !important;
+  justify-content: center !important; }
+
+.d-jcs {
+  display: flex !important;
+  justify-content: flex-start !important; }
+
+.d-jce {
+  display: flex !important;
+  justify-content: flex-end !important; }
+
+.d-jcb {
+  display: flex !important;
+  justify-content: space-between !important; }
+
+.d-jca {
+  display: flex !important;
+  justify-content: space-around !important; }
+
+.d-jcse {
+  display: flex !important;
+  justify-content: space-evenly !important; }
+
+.d-aic {
+  display: flex !important;
+  align-items: center !important; }
+
+.d-ais {
+  display: flex !important;
+  align-items: flex-start !important; }
+
+.d-aie {
+  display: flex !important;
+  align-items: flex-end !important; }
+
+.d-fr {
+  display: flex !important;
+  flex-direction: row !important; }
+
+.d-fc {
+  display: flex !important;
+  flex-direction: column !important; }
+
+.d-f {
+  display: flex !important; }
+
+/* SCSS CODE */
+/* media query */
+
+/*# sourceMappingURL=style.css.map */

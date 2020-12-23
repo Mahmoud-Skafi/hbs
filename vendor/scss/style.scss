@@ -1,0 +1,24 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+@import './components/var';
+@import './components/display';
+@import './components/color';
+@import './components/card';
+@import './components/button';
+
+
+
+/* SCSS CODE */
+
+
+
+/* media query */
+@import './rws/max-w-1599';
+@import './rws/max-w-768';
+@import './rws/min-w-1200';
+@import './rws/min-w-768';
